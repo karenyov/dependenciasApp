@@ -3,6 +3,7 @@ Isso pode impactar no tamanho do seu app!!  - [Rocketseat](https://www.youtube.c
 
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
+- [react-native-bundle-visualizer](https://www.npmjs.com/package/react-native-bundle-visualizer)
 
 ## Bibliotecas
 
