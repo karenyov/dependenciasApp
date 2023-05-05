@@ -32,6 +32,6 @@ npm uninstall NOME_LIB
 ```
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/dependenciasApp/blob/main/app.png" width="300">
+  <img src="https://github.com/karenyov/dependenciasApp/blob/main/app.png" width="500">
 </p>
 
