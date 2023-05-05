@@ -4,6 +4,10 @@ Isso pode impactar no tamanho do seu app!!  - [Rocketseat](https://www.youtube.c
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
 
+## Bibliotecas
+
+:white_check_mark:	[depcheck](https://www.npmjs.com/package/depcheck)
+
 ## Rodando
 > Entrar na pasta do projeto e executar: 
 
