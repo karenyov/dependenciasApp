@@ -3,11 +3,14 @@ Isso pode impactar no tamanho do seu app!!  - [Rocketseat](https://www.youtube.c
 
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
-- [react-native-bundle-visualizer](https://www.npmjs.com/package/react-native-bundle-visualizer)
 
 ## Bibliotecas
 
 :white_check_mark:	[depcheck](https://www.npmjs.com/package/depcheck)
+
+:white_check_mark: [react-native-bundle-visualizer](https://www.npmjs.com/package/react-native-bundle-visualizer)
+
+:white_check_mark: [npm-check](https://www.npmjs.com/package/npm-check)
 
 ## Rodando
 > Entrar na pasta do projeto e executar: 
