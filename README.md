@@ -15,11 +15,17 @@ Isso pode impactar no tamanho do seu app!!  - [Rocketseat](https://www.youtube.c
 //instalando dependências 
 npm i 
 
-
 // executando APP
 expo start
 ```
 
+
+## Remover Lib
+
+```sh 
+npm uninstall NOME_LIB
+
+```
 # Screenshots
 <p align="center">
   <img src="https://github.com/karenyov/dependenciasApp/blob/main/app.png" width="300">
